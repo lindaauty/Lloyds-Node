@@ -1,0 +1,30 @@
+{
+  "name": "lloyds-node",
+  "version": "1.0.0",
+  "description": "LBG Training Project - Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindaauty/Lloyds-Node.git"
+  },
+  "keywords": [
+    "LBG",
+    "Node"
+  ],
+  "author": "LA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindaauty/Lloyds-Node/issues"
+  },
+  "homepage": "https://github.com/lindaauty/Lloyds-Node#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "typescript": "^5.7.3"
+  }
+}
